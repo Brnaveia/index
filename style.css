@@ -1,0 +1,172 @@
+.button {
+    float: right;
+}
+
+.button a {
+    margin-left: 0px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.button_bottom {
+    position: fixed;
+    left: 4.2;
+    top: 6;
+}
+
+.holder {
+    width: 40%;
+    border: 2px solid whitesmoke;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 4.0in;
+    top: 2.8in;
+}
+
+.s {
+    margin-left: 0px;
+    width: 10%;
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 6in;
+    top: 2.8in;
+}
+
+.p {
+    margin-left: 0px;
+    width: 10%;
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 6in;
+    top: 3.3in;
+}
+
+.a {
+    margin-left: 0px;
+    width: 10%;
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 6in;
+    top: 3.8in;
+}
+
+.c {
+    margin-left: 0px;
+    width: 10%;
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 6in;
+    top: 4.3in;
+}
+
+.e {
+    margin-left: 0px;
+    width: 10%;
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    position: fixed;
+    left: 6in;
+    top: 4.8in;
+}
+
+.search {
+    border: none;
+    background-color: whitesmoke;
+    width: 10%;
+    margin-left: 0px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 10px 10px;
+    text-decoration: none;
+    position: fixed;
+    left: 5.5in;
+    top: 3.5in;
+}
+
+.lucky {
+    border: none;
+    background-color: whitesmoke;
+    width: 10%;
+    margin-left: 0px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 10px 10px;
+    text-decoration: none;
+    position: fixed;
+    left: 7.0in;
+    top: 3.5in;
+}
+
+.Image_search {
+    border: none;
+    background-color: whitesmoke;
+    width: 10%;
+    margin-left: 0px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 10px 10px;
+    text-decoration: none;
+    position: fixed;
+    left: 6.0in;
+    top: 3.5in;
+}
+
+.text {
+    position: fixed;
+    left: 4.5in;
+    top: 4.1in;
+    font: arial;
+    font-size: 16px;
+}
+
+.google {
+    background-image: url('google.png');
+    background-repeat: no-repeat;
+    position: fixed;
+    left: 5.7in;
+    top: 1.5in;
+}
